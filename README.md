@@ -1,3 +1,9 @@
-## Info
+# Marvin Elsen
 
-All of my projects have been migrated to my [personal Gitea instance](https://gitea.marvinelsen.com).
+## Contact
+
+ | Service  | Username |
+| ------------- | ------------- |
+| **WWW**  | [www.marvinelsen.com](https://marvinelsen.com)  |
+| **Email**  | [github@marvinelsen.com](mailto:github@marvinelsen.com)  |
+| **LinkedIn**  | [marvinelsen](https://www.linkedin.com/in/marvinelsen)  |
